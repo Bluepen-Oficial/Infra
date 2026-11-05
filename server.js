@@ -21,7 +21,11 @@ app.get('/', (req, res) => {
 app.get('/api/usuarios', (req, res) => {
     res.status(200).json([
         { id: 1, nome: 'Victor' },
-        { id: 2, nome: 'João' }
+        { id: 2, nome: 'João' },
+        { id: 3, nome: 'Maria' },
+        { id: 4, nome: 'Will' },
+        { id: 5, nome: 'Jamelão' },
+        { id: 6, nome: 'Paulo' }
     ]);
 });
 
