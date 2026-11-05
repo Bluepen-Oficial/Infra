@@ -1,0 +1,26 @@
+{
+  "name": "infra",
+  "version": "1.0.0",
+  "description": "Aula inicial sobre infra.\r Teste",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bluepen-Oficial/Infra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bluepen-Oficial/Infra/issues"
+  },
+  "homepage": "https://github.com/Bluepen-Oficial/Infra#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
