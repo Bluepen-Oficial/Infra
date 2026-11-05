@@ -1,4 +1,7 @@
+git pull
+
 git add .
 
-git commit -m 'criando uma api'
+git commit -m 'correção'
 
+git push
